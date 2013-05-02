@@ -1,0 +1,2 @@
+This is the third raisl application made by Maviz. 
+This sample_app is more in functionality and understandign wise as compared to the older two files.
